@@ -1,0 +1,8 @@
+{
+  "name": "Secure Checkout",
+  "description": "A professional and compact e-commerce payment page with card, mobile banking, and crypto options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
